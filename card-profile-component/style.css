@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   background-color: hsl(185, 75%, 39%);
   font-family: 'Kumbh Sans', sans-serif;
@@ -15,6 +14,20 @@ h3{
 h3 span {
   font-weight: normal;
   color: #969696;
+}
+footer {
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  text-align: center;
+  font-size: 14px;
+}
+footer a {
+  text-decoration: none;
+  color: #FFf;
+}
+footer a:hover {
+  color:hsl(228, 45%, 44%);
 }
 .card {
   position: fixed;
@@ -58,18 +71,4 @@ h3 span {
   font-weight: 400;
   font-size: 18px;
   color: #969696;
-}
-.attribution {
-  bottom: 0;
-  width: 100%;
-  position: fixed;
-  text-align: center;
-  font-size: 14px;
-}
-.attribution a {
-  text-decoration: none;
-  color: #FFf;
-}
-.attribution a:hover {
-  color:hsl(228, 45%, 44%);
 }
