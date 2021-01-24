@@ -8,6 +8,14 @@ body {
   background-color: hsl(185, 75%, 39%);
   font-family: 'Kumbh Sans', sans-serif;
 }
+h3{
+  padding-top: 20px;
+  font-weight: 700;
+}
+h3 span {
+  font-weight: normal;
+  color: #969696;
+}
 .card {
   position: fixed;
   top: 50%;
@@ -24,3 +32,19 @@ body {
   border-top-left-radius: 15px 15px;
   border-top-right-radius: 15px 15px;
 }
+.avatar {
+  margin-top: -50px;
+  border-radius: 50%;
+  border: 5px solid #FFF;
+}
+.container p {
+  color:#969696;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 18px;
+}
+.line {
+  color: #6a6f81;
+  opacity: 0.5;
+}
+
