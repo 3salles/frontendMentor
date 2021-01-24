@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+}
+.card {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #FFFFFf;
+  box-shadow:  21px 27px 60px 13px hsl(229, 23%, 23%);
+  width: 350px;
+  text-align: center;
+  border-radius: 15px;
+}
+.top-card{
+  z-index: 3333;
+  border-top-left-radius: 15px 15px;
+  border-top-right-radius: 15px 15px;
+}
