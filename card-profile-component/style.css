@@ -29,6 +29,19 @@ footer a {
 footer a:hover {
   color:hsl(228, 45%, 44%);
 }
+.top-circle {
+  transform: rotate(180deg);
+  position: fixed;
+  top: 0;
+  right: 40vw;
+  height: 50vh;
+}
+.bottom-circle {
+  position: fixed;
+  left: 40vw;
+  top: 50vh;
+  height: 50vh;
+}
 .card {
   position: fixed;
   top: 50%;
