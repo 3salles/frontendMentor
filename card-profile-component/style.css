@@ -1,10 +1,17 @@
+:root {
+  --dark-cyan: hsl(185, 75%, 39%);
+  --hex-gray59: #969696;
+  --very-dark-cyan: hsl(228, 45%, 44%);
+  --hex-white: #FFFFFF;
+  --dark-gray: hsl(229, 23%, 23%);
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
-  background-color: hsl(185, 75%, 39%);
+  background-color: var(--dark-cyan);
   font-family: 'Kumbh Sans', sans-serif;
 }
 h3{
@@ -13,7 +20,7 @@ h3{
 }
 h3 span {
   font-weight: normal;
-  color: #969696;
+  color: var(--hex-gray59);
 }
 footer {
   bottom: 0;
@@ -24,10 +31,10 @@ footer {
 }
 footer a {
   text-decoration: none;
-  color: #FFf;
+  color: var(--hex-white);
 }
 footer a:hover {
-  color:hsl(228, 45%, 44%);
+  color: var(--very-dark-cyan);
 }
 .top-circle {
   transform: rotate(180deg);
@@ -47,8 +54,8 @@ footer a:hover {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #FFFFFf;
-  box-shadow:  21px 27px 60px 13px hsl(229, 23%, 23%);
+  background-color: var(--hex-white);
+  box-shadow:  21px 27px 60px 13px var(--dark-gray);
   width: 350px;
   text-align: center;
   border-radius: 15px;
@@ -61,16 +68,16 @@ footer a:hover {
 .avatar {
   margin-top: -50px;
   border-radius: 50%;
-  border: 5px solid #FFF;
+  border: 5px solid var(--hex-white);
 }
 .container p {
-  color:#969696;
+  color:var(--hex-gray59);
   padding-top: 10px;
   padding-bottom: 20px;
   font-size: 18px;
 }
 .line {
-  color: #6a6f81;
+  color: var(--hex-gray59);
   opacity: 0.5;
 }
 .stats {
@@ -83,5 +90,5 @@ footer a:hover {
 .stats span {
   font-weight: 400;
   font-size: 18px;
-  color: #969696;
+  color: var(--hex-gray59);
 }
