@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Mentor Challenges</h3>
+<h3 align="center">Frontend Mentor's Challenges</h3>
 </br> 
 
 <p align="center">
@@ -36,9 +36,10 @@ Here I am praticing HTML and CSS concepts using [FrontendMentor](https://www.fro
 
 ## :card_index_dividers: Projects
 
-In each folder there is a different project with a design prototype, its code and a preview site.
+In each folder there is a different project with its design prototype, its code and its preview site.
 
 ### :pushpin: Profile Card Component
+
 This challenge is to create a profile card component as the image below:
 
 <span align='center'>
@@ -47,7 +48,7 @@ This challenge is to create a profile card component as the image below:
 
 ## :page_facing_up: License
 
-This project uses [MIT](https://github.com/3salles/node-book/blob/master/LICENSE.md) lincense.
+This project uses [MIT](https://github.com/3salles/node-book/blob/master/LICENSE.md) license.
 
 ## ‍:woman_technologist: Author
 
