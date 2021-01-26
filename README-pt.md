@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Mentor's Challenges</h3>
+<h3 align="center">Desafios Frontend Mentor</h3>
 </br> 
 
 <p align="center">
@@ -7,48 +7,48 @@
 </p>
 
 <p align="center">
-  This is a repository to Frontend Mentor Challenge.
+  Repositório para os desafios do Frontend Mentor.
   <br />
   <br />
-  <a href="README.md">🇺🇸English</a>
+  <a href="README.md">🇺🇸Inglês</a>
    ·
-  <a href="README-pt.md">🇧🇷Portuguese</a>
+  <a href="README-pt.md">🇧🇷Português</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
-# :card_file_box: Table of Contents
+# :card_file_box: Tabela de Conteúdos
 
-* [About the Project](#book-about-the-project)
-  * [Technologies](#computer-technologies)
-* [Projects](#card_index_dividers-projects)
-  * [Profile Card Component](#pushpin-profile-card-component)
-* [License](#page_facing_up-license)
-* [Author](#woman_technologist-author)
+* [Sobre o projeto](#book-sobre-o-projeto)
+  * [Tecnologias](#computer-tecnologias)
+* [Projetos](#card_index_dividers-projetos)
+  * [Card de Perfil](#pushpin-card-de-perfil)
+* [Licença](#page_facing_up-licença)
+* [Autora](#woman_technologist-autora)
 
-## :book: About The Project
+## :book: Sobre o projeto
 
-Here I am praticing HTML and CSS concepts using [FrontendMentor](https://www.frontendmentor.io/) challenges to create pages with a given design. 
+ESte repositório é para eu praticar os conceitos de HTML e CSS usando os desafios do [FrontendMentor](https://www.frontendmentor.io/) para desenvolver as pages de acordo com um design dado.
 
-### :computer: Technologies
+### :computer: Tecnologias
 
 * [HTML](https://html.com)
 * [CSS](https://devdocs.io/css/)
 
-## :card_index_dividers: Projects
+## :card_index_dividers: Projetos
 
-In each folder there is a different project with its design prototype, its code and its preview site.
+Em cada pasta tem um projeto diferente, com seu design, código e preview do site.
 
 ### :pushpin: Profile Card Component
 
-This challenge is to create a profile card component as the image below:
+O desafio é criar o card de perfil o mais próximo da imagem abaixo:
 
 <span align='center'>
   <img src="https://user-images.githubusercontent.com/62452619/105778278-daeb3b80-5f4a-11eb-9d26-4306be490cd0.jpg" alt="Profile card component design image" width='50%' />
 </span>
 
-## :page_facing_up: License
+## :page_facing_up: Licença
 
-This project uses [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md) license.
+Este projeto usa licença [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md).
 
 ## ‍:woman_technologist: Author
 
