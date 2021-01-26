@@ -48,7 +48,7 @@ O desafio é criar o card de perfil o mais próximo da imagem abaixo:
 
 ## :page_facing_up: Licença
 
-Este projeto usa licença [MIT](https://github.com/3salles/node-book/blob/master/LICENSE.md).
+Este projeto usa licença [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md).
 
 ## ‍:woman_technologist: Author
 

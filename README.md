@@ -48,7 +48,7 @@ This challenge is to create a profile card component as the image below:
 
 ## :page_facing_up: License
 
-This project uses [MIT](https://github.com/3salles/node-book/blob/master/LICENSE.md) license.
+This project uses [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md) license.
 
 ## ‍:woman_technologist: Author
 
