@@ -36,16 +36,15 @@ Here I am praticing HTML and CSS concepts using [FrontendMentor](https://www.fro
 
 ## :card_index_dividers: Projects
 
-In each folder there is a different project with its design prototype, its code and its preview site.
+In each project topic there is a different project with its design prototype and its preview site.
 
 ### :pushpin: Profile Card Component
 
 This challenge is to create a profile card component as the image below:
 
-<span align='center'>
-  <img src="https://user-images.githubusercontent.com/62452619/105778278-daeb3b80-5f4a-11eb-9d26-4306be490cd0.jpg" alt="Profile card component design image" width='50%' />
-</span>
+  <img align='center' src="https://user-images.githubusercontent.com/62452619/105778278-daeb3b80-5f4a-11eb-9d26-4306be490cd0.jpg" alt="Profile card component design image" width='50%' />
 
+Here is my result: see [preview](https://profile-card-component-dq020wqo9.vercel.app)
 ## :page_facing_up: License
 
 This project uses [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md) license.
