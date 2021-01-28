@@ -36,7 +36,7 @@ ESte repositório é para eu praticar os conceitos de HTML e CSS usando os desaf
 
 ## :card_index_dividers: Projetos
 
-Em cada pasta tem um projeto diferente, com seu design, código e preview do site.
+Em cada tópico tem um projeto diferente, com seu design e preview do site.
 
 ### :pushpin: Profile Card Component
 
@@ -45,7 +45,8 @@ O desafio é criar o card de perfil o mais próximo da imagem abaixo:
 <span align='center'>
   <img src="https://user-images.githubusercontent.com/62452619/105778278-daeb3b80-5f4a-11eb-9d26-4306be490cd0.jpg" alt="Profile card component design image" width='50%' />
 </span>
-
+ 
+Meu resultdo: ver [preview](https://profile-card-component-dq020wqo9.vercel.app)
 ## :page_facing_up: Licença
 
 Este projeto usa licença [MIT](https://github.com/3salles/frontendMentor/blob/develop/LICENSE.md).
